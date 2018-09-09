@@ -4,3 +4,4 @@ En samling af Jupyter Notebooks som dokumenterer python scripts som hjælpeværk
 * Berige geodata med metadata fra geodata-info.dk
 * Stemningsanalyse i facebookgrupper
 * Udtrække tekst fra plandokument-PDF'er
+* Hente oplysninger om biler på baggrund af nummerplader
