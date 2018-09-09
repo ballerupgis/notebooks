@@ -3,3 +3,4 @@ En samling af Jupyter Notebooks som dokumenterer python scripts som hjælpeværk
 * Hente data fra Tinglysnigen
 * Berige geodata med metadata fra geodata-info.dk
 * Stemningsanalyse i facebookgrupper
+* Udtrække tekst fra plandokument-PDF'er
